@@ -2,7 +2,7 @@
 
 Kodo is airdropping 15% (60M) of its initial supply to the community. Please visit our [airdrop page](https://app.kodo.exchange/airdrop) to claim.
 
-> ##  Please Note
+> ## Please Note
 >
 > Check [config.json](https://raw.githubusercontent.com/kodo-exchange/airdrop/main/config.json) to verify your airdrop eligibility and amount.
 >
