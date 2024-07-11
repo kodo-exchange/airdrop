@@ -1,4 +1,8 @@
-# Kodo Community Airdrop 
+# Kodo Community Airdrop - **Ended**
+
+> ## Airdrop Conclusion Notice
+>
+> The Kodo community airdrop has officially ended. All remaining tokens have been burned, as evidenced by the transaction [here](https://taikoscan.io/tx/0x9bcae674ea12844367c3026e2a661871420f56e9fcc7a44e678039cae5e9548b).
 
 Kodo is airdropping 15% (60M) of its initial supply to the community. Please visit our [airdrop page](https://app.kodo.exchange/airdrop) to claim.
 
